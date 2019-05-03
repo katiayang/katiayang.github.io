@@ -1,0 +1,59 @@
+h1{
+	text-align: center;
+	color: black;
+	background-color: #9fc5e8ff;
+}
+h2{
+	text-align: center;
+}
+header{
+	background-color: #9fc5e8ff;
+}
+body{
+	background-color: white;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+nav{
+	text-align: center;
+}
+
+nav ul{
+	margin: 0 auto;
+}
+footer{
+	text-align: center;
+	background-color: #9fc5e8ff;
+	
+}
+i.fas{
+	font-size: 5em;
+	text-align: center;
+	display: block;
+}
+p{
+	text-align: center;
+}
+.me{
+	float: right;
+	padding-left: 0;
+	height: 300px;
+}
+.Logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  margin: 0 auto;
+}
+.SEADO{
+	float: right;
+	padding-left: 0;
+	height: 200px;
+}
+.recycle{
+	float: left;
+	height: 300px;
+}
